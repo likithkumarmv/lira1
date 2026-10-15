@@ -1,0 +1,16 @@
+{
+  "name": "lira-backend-adapter",
+  "version": "1.0.0",
+  "description": "LIRA AI Voice Calling & Telephony Orchestration with Bolna, ElevenLabs, Gemini",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^7.7.0",
+    "nodemailer": "^10.1.1"
+  }
+}
